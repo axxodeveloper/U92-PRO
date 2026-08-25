@@ -1,4 +1,4 @@
-# U92 Steganography
+# U92 PRO Steganography
 
 ### Continuous Bitstream Engine v2.3
 
