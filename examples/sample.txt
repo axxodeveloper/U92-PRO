@@ -1,0 +1,13 @@
+This is a sample text file for testing U92 Steganography.
+You can embed this file into an image and extract it later.
+The U92 framework ensures bit-perfect round-trip integrity.
+
+Features:
+- LSB Steganography
+- Continuous bitstream engine
+- ZIP compression
+- Auto-generated carriers
+- Integrity verification
+
+Created by: U92 Security Tools
+Version: 2.3.0
