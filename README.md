@@ -1,4 +1,9 @@
-# U92 PRO Steganography
+<h1 align="center"><b>U92 PRO Steganography</b></h1>
+
+
+
+<img width="1280" height="640" alt="34526469448 (2)" src="https://github.com/user-attachments/assets/91490f27-b372-43a7-bdf2-ed93525420bf" />
+
 
 ### Continuous Bitstream Engine v2.3
 
