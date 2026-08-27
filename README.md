@@ -221,13 +221,7 @@ Use the software responsibly and only with data and systems you are authorized t
 
 ## License
 
-Add your preferred license here.
-
-Example:
-
-```text
-MIT License
-```
+• MIT License
 
 ---
 
